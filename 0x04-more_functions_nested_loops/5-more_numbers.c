@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - more numbers
+ * more_numbers - prints  more numbers
  *
  * Result: void
  */
@@ -16,7 +16,7 @@ void more_numbers(void)
 		{
 			_putchar(j + '0');
 		}
-		_putchar('\n');
+	_putchar('\n');
 	}
 	_putchar('\n');
 }
