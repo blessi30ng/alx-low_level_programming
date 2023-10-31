@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * free_grid - free memory previously allocated 
- *@grid: pointer to the array
- *@height: number of rows
+ * free_grid - free previously allocated memory
+ * @grid: pointer to the array
+ * @height: no of rows
  */
 
 void free_grid(int **grid, int height)
